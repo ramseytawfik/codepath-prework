@@ -57,7 +57,9 @@ None
 I am curious about how to keep your code more organized during the process of creating a game. I am usually used to just coding with one language at a time, rather than HTML, .js, and CSS all at one time. On my end, I had an error for the changes in the color and it took me about 5-10 minutes to figure it out. If the code was 1000+ lines, I would have taken way longer than that. Is there a technique in the way you can format your code when using multiple languages so that you can find bugs or errors quicker? In addition to that, If I were working with a team on a project, how would I be able to plan out with them certain parts so that we all don’t have to be working on it at the same time. For example, If I were making a feature in the index.html, but my groupmate was styling it or programming it in the script.js and style.css, how could they work on their part, if for instance, I hadn’t started that part yet. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-
+```
+Code block
+```
   1. I would want to first off try and condense the code down a little bit more and make it more readable.  This would mean adding more comments and naming the variables more specifically so that it is easier to understand. I think that the game would run faster and be able to interpret better if there were fewer lines of code. 
 
   2. Second off, I would maybe add a leaderboard where you can add your name and the score so that you can compare your score to other players that are playing. This would require cookies and some backend work as well. 
