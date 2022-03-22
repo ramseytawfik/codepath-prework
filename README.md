@@ -79,3 +79,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+    ![light and sound memory game](https://user-images.githubusercontent.com/86782524/159383982-76ef3a87-37c9-4db8-b823-1fd3d04c5107.gif)
+
