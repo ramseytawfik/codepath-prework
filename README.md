@@ -70,17 +70,17 @@ I am curious about how to keep your code more organized during the process of cr
 doing (for example: refactoring certain functions, adding additional features, etc). 
 Be specific. (recommended 100 - 300 words) 
 ```
-  1. I would want to first off try and condense the code down a little bit more and make it more readable.  This would mean adding more comments and naming the variables more specifically so that it is easier to understand. I think that the game would run faster and be able to interpret better if there were fewer lines of code. 
+1. I would want to first off try and condense the code down a little bit more and make it more readable.  This would mean adding more comments and naming the variables more specifically so that it is easier to understand. I think that the game would run faster and be able to interpret better if there were fewer lines of code. 
 
-  2. Second off, I would maybe add a leaderboard where you can add your name and the score so that you can compare your score to other players that are playing. This would require cookies and some backend work as well. 
+2. Second off, I would maybe add a leaderboard where you can add your name and the score so that you can compare your score to other players that are playing. This would require cookies and some backend work as well. 
 
-  3. I would also like to implement a feature to enlarge the buttons for the user, in case someone is using a mobile device and the buttons are too big or too small. 
+3. I would also like to implement a feature to enlarge the buttons for the user, in case someone is using a mobile device and the buttons are too big or too small. 
 
-  4. I would also make it so that the user can earn coins and be able to open up a shop and use the shop to buy things like different music, colors, and sounds. This would make the game more enjoyable and create an incentive to continue playing the game.
+4. I would also make it so that the user can earn coins and be able to open up a shop and use the shop to buy things like different music, colors, and sounds. This would make the game more enjoyable and create an incentive to continue playing the game.
 
-  5. I would also have a mute button on the game. Sometimes you are playing the game and you want to mute it so that it isn’t playing out loud, so that would be a useful feature to add. 
+5. I would also have a mute button on the game. Sometimes you are playing the game and you want to mute it so that it isn’t playing out loud, so that would be a useful feature to add. 
 
-  6. Lastly, I would integrate an option where the notes that you play, end up playing the sequence of an actual song, which the user can either choose at the beginning or buy in the shop.
+6. Lastly, I would integrate an option where the notes that you play, end up playing the sequence of an actual song, which the user can either choose at the beginning or buy in the shop.
 
 
 
