@@ -2,11 +2,12 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Ramsey Tawfik
 
-Time spent: **#** hours spent in total
+Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://heliotrope-glowing-newsboy.glitch.me
+                 https://glitch.com/edit/#!/heliotrope-glowing-newsboy
 
 ## Required Functionality
 
@@ -39,7 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![x](https://cdn.glitch.global/bcfb931a-2b93-4924-a2a7-7ef0a56ba2ee/light%20and%20sound%20memory%20game.gif?v=1647908844274)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
