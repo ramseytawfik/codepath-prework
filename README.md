@@ -2,12 +2,13 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Ramsey Tawfik
+Submitted by: **Ramsey Tawfik**
 
-Time spent: **5** hours spent in total
+Time spent: **4** hours spent in total
 
-Link to project: https://heliotrope-glowing-newsboy.glitch.me
-                 https://glitch.com/edit/#!/heliotrope-glowing-newsboy
+Link to project: 
+**Website:** https://heliotrope-glowing-newsboy.glitch.me
+**Code:** https://glitch.com/edit/#!/heliotrope-glowing-newsboy
 
 ## Required Functionality
 
@@ -41,9 +42,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![x](https://cdn.glitch.global/bcfb931a-2b93-4924-a2a7-7ef0a56ba2ee/light%20and%20sound%20memory%20game.gif?v=1647908844274)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -64,5 +63,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 [My 5-minute Interview Recording](your-link-here)
 
+## License
 
+    Copyright [Ramsey Tawfik]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
