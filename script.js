@@ -1,4 +1,4 @@
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4];
+var pattern = [2, 5, 2, 6, 4, 3, 2, 1, 6, 5, 2, 4];
 var progress = 0; 
 var gamePlaying = false;
 var tonePlaying = false;
@@ -96,7 +96,9 @@ const freqMap = {
   1: 261.6,
   2: 329.6,
   3: 392,
-  4: 515.2
+  4: 515.2,
+  5: 666.1,
+  6: 822
 }
 
 function playTone(btn,len){ 
