@@ -41,7 +41,7 @@ button{
 }
 
 #Button1 {
-    background: lightgreen;
+    background: white;
 }
 
 #Button1:active, #Button1.lit{
@@ -49,7 +49,7 @@ button{
 }
 
 #Button2 {
-    background: lightblue;
+    background: white;
 }
 
 #Button2:active, #Button2.lit {
@@ -57,7 +57,7 @@ button{
 }
 
 #Button3 {
-    background: lightyellow;
+    background: white;
 }
 
 #Button3:active, #Button3.lit {
@@ -65,12 +65,29 @@ button{
 }
 
 #Button4 {
-    background: pink;
+    background: white;
 }
 
 #Button4:active, #Button4.lit {
     background:red;
 }
+
+#Button5 {
+    background: white;
+}
+
+#Button5:active, #Button5.lit {
+    background:orange;
+}
+
+#Button6 {
+    background: white;
+}
+
+#Button6:active, #Button6.lit {
+    background:purple;
+}
+
 
 #gameButtonArea > button {
   width:200px;
