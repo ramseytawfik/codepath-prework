@@ -4,12 +4,11 @@
 
 Submitted by: **Ramsey Tawfik**
 
-Time spent: **5** hours spent in total
+Time spent: **11** hours spent in total
 
 Link to project:
 **Website:** https://heliotrope-glowing-newsboy.glitch.me
 
-**Code:** https://glitch.com/edit/#!/heliotrope-glowing-newsboy
 
 ## Required Functionality
 
@@ -29,11 +28,11 @@ The following **optional** features are implemented:
 - [x] Buttons use a pitch (frequency) other than the ones in the tutorial
 - [x] More than 4 functional game buttons
 - [ ] Playback speeds up on each turn
-- [ ] Computer picks a different pattern each time the game is played
-- [ ] Player only loses after 3 mistakes (instead of on the first mistake)
+- [x] Computer picks a different pattern each time the game is played
+- [x] Player only loses after 3 mistakes (instead of on the first mistake)
 - [ ] Game button appearance change goes beyond color (e.g. add an image)
 - [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-- [ ] User has a limited amount of time to enter their guess on each turn
+- [x] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
@@ -42,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x](https://cdn.glitch.global/bcfb931a-2b93-4924-a2a7-7ef0a56ba2ee/light%20and%20sound%20memory%20game.gif?v=1648183266604)
+![x](https://cdn.glitch.global/bcfb931a-2b93-4924-a2a7-7ef0a56ba2ee/light%20and%20sound%20memory%20game.gif?v=1648858706351)
 
 ## Reflection Questions
 
@@ -51,14 +50,14 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 (websites, books, people, etc) list them here.
 ```
 
-None
+StackOverflow
 
 ```
 2. What was a challenge you encountered in creating this submission
 (be specific)? How did you overcome it? (recommended 200 - 400 words)
 ```
 
-Overall, I thought that the prework was pretty straight up and easy to follow along with. I only experienced a couple of syntaxes when completing the game. It was usually that I had capitalized a letter or forgot to add a bracket, which was a quick fix. I only thought that there were two parts that were kinda hard. The first one is that I had a little trouble coding the part where the computer had to display the pattern before the user followed after. I spent a little time on it, but in the end, figured it out. The other part that was a little bit harder is that after I finished the game, I went back and experimented with the parts in the code. I spent about 2/3 hours completing the game, then spent the remaining time really trying to understand every feature that we implemented into the game so far. I am planning to go back after turning in the prework to go back and add the additional features and add my own touch to the game. 
+Overall, I thought that the prework was simple and easy to follow along with. I only experienced a couple of syntaxes when completing the game. It was usually that I had capitalized a letter or forgot to add a bracket, which was a quick fix. I only thought that there were two parts that were kind of hard. The first one is that I had a little trouble coding the part where the computer had to display the pattern before the user followed after. I spent a little time on it, but in the end, figured it out. The other part that was a little bit harder is that after I finished the game, I went back and experimented with the parts in the code. I spent about 2/3 hours completing the game, then spent the remaining time really trying to understand every feature that we implemented into the game so far. After going back and adding more features, I realized how more difficult some of the features were. I had begun to work on the part where the user had a limited time to follow the pattern. After completing that part, I was very relieved, but then realized that I had messed up something in the part that randomly chose the pattern before playing. This made me very cautious about messing up parts that I had already completed and to stay more organized. I had also spent about two hours trying to get a trumpet audio as the frequency. I kept reading online and i felt that I had finally got it. The keys were playing the trumpet sounds in harmony and it kind of worked on one of the keys. When I went back to complete the rest of the keys, they had just stopped working all together. I believe I didn’t link the audio correctly for the function to be able to produce the sound on the computers end and the users end. It was very frustrating, but it taught me how to keep looking for the answer and to keep trying, even if you don’t find the right answer. 
 
 ```
 3. What questions about web development do you have after completing

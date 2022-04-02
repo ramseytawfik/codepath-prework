@@ -1,12 +1,12 @@
-/* a minimalist set of CSS resets */
-
-/* default to border-box */
 html {
   box-sizing: border-box;
   font-size: 16px;
+  color: black;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -15,84 +15,89 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-  background-color: slategrey;
-    color: white; 
+  background-color: black;
+  color: green;
 }
 
 h1 {
-  font-family: verdana, arial, sans-serif; 
+  font-family: verdana, arial, sans-serif;
+  color: green;
 }
 
-button{
+button {
   padding: 20px;
   border-radius: 30px;
-    
 }
 .hidden {
   display: none;
 }
 
 #startBtn {
-    background: green;
+  background: green;
 }
 
 #stopBtn {
-    background: red;
+  background: red;
 }
 
 #Button1 {
-    background: white;
+  background: white;
 }
 
-#Button1:active, #Button1.lit{
-    background:green;
+#Button1:active,
+#Button1.lit {
+  background: green;
 }
 
 #Button2 {
-    background: white;
+  background: white;
 }
 
-#Button2:active, #Button2.lit {
-    background:blue;
+#Button2:active,
+#Button2.lit {
+  background: blue;
 }
 
 #Button3 {
-    background: white;
+  background: white;
 }
 
-#Button3:active, #Button3.lit {
-    background:yellow;
+#Button3:active,
+#Button3.lit {
+  background: yellow;
 }
 
 #Button4 {
-    background: white;
+  background: white;
 }
 
-#Button4:active, #Button4.lit {
-    background:red;
+#Button4:active,
+#Button4.lit {
+  background: red;
 }
 
 #Button5 {
-    background: white;
+  background: white;
 }
 
-#Button5:active, #Button5.lit {
-    background:orange;
+#Button5:active,
+#Button5.lit {
+  background: orange;
 }
 
 #Button6 {
-    background: white;
+  background: white;
 }
 
-#Button6:active, #Button6.lit {
-    background:purple;
+#Button6:active,
+#Button6.lit {
+  background: purple;
 }
-
 
 #gameButtonArea > button {
-  width:200px;
-  height:200px;
-  margin:2px;
+  width: 200px;
+  height: 200px;
+  margin: 2px;
 }
 /* images and videos max out at full width */
 img,
